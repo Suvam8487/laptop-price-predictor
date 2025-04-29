@@ -33,8 +33,8 @@ This project aims to build a predictive model that estimates the price of laptop
 - Multiple regression models tested (Linear Regression, Random Forest, etc.)
 - Hyperparameter tuning
 - Model evaluation and visualization
-- Interactive prediction via web interface (optional)
-- Deployable ML model using `pickle` or `joblib`
+  
+  
 
 ---
 
@@ -62,7 +62,7 @@ This project aims to build a predictive model that estimates the price of laptop
 - Matplotlib, Seaborn (for EDA)
 - Scikit-learn (for ML modeling)
 - Jupyter Notebook
-- (Optional) Flask or Streamlit (for deployment)
+-  Streamlit (for deployment)
 
 ---
 
@@ -83,9 +83,6 @@ This project aims to build a predictive model that estimates the price of laptop
      - Decision Tree
      - Random Forest Regressor
      - Gradient Boosting
-
-4. **Hyperparameter Tuning**:
-   - GridSearchCV and RandomizedSearchCV for optimization
 
 ---
 
